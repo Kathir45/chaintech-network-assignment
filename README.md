@@ -7,6 +7,12 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4.1-38B2AC?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
 [![Supabase](https://img.shields.io/badge/Supabase-2.57.4-3ECF8E?style=flat-square&logo=supabase)](https://supabase.com/)
 
+## 🌐 Live Demo
+
+**🔗 [View Live Website](https://chaintech-network-assignment-xi.vercel.app/)**
+
+Experience the full application with all features deployed on Vercel!
+
 ---
 
 ## 📋 Overview
@@ -136,7 +142,7 @@ This is an internship assignment project. For any suggestions or improvements, p
 **LinkedIn:** [linkedin.com/in/kathirvel45](https://linkedin.com/in/kathirvel45)  
 **GitHub:** [@kathir45](https://github.com/kathir45)  
 
-**Internship:** Chaintech Network - Full Stack Developer  
+**Internship:** Chaintech Network - Reactjs Developer  
 **Assignment:** User Management System with Admin Dashboard  
 **Date:** October 2025  
 

@@ -10,7 +10,7 @@
 
 **A Modern, Full-Featured User Management System with Admin Dashboard**
 
-[Live Demo](#) • [Documentation](#features) • [Installation](#installation) • [Contact](#contact)
+**🔗 [Live Demo](https://chaintech-network-assignment-xi.vercel.app/)** • [Documentation](#features) • [Installation](#installation) • [Contact](#contact)
 
 </div>
 
