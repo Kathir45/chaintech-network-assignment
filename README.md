@@ -66,7 +66,7 @@ This project is an **internship assignment** for **Chaintech Network**, demonstr
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/chaintech-network.git
+git clone https://github.com/kathir45/chaintech-network.git
 cd chaintech-network
 ```
 
@@ -138,7 +138,7 @@ This is an internship assignment project. For any suggestions or improvements, p
 ## 📞 Contact
 
 **Developer:** Kathirvel S  
-**Email:** kathirselvam05@gmail.com  
+**Email:** vlkathir23@gmail.com  
 **LinkedIn:** [linkedin.com/in/kathirvel45](https://linkedin.com/in/kathirvel45)  
 **GitHub:** [@kathir45](https://github.com/kathir45)  
 
